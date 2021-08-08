@@ -1,5 +1,7 @@
 # Supported Versions
 
+## When 1.0.5 is released, 1.0.3 is not supported anymore
+
 
 | Version | Supported          | Infos
 | ------- | ------------------ | ---------------
