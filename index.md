@@ -9,3 +9,7 @@ A script, that makes easy to restart/shutdown your windows pc.
 ## Why should i download rebootshutdown?
 
 Its easier to restart/shutdown your pc.
+
+## How long is a version compatible?
+
+1-3 months.
