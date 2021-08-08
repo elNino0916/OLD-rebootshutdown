@@ -1,37 +1,15 @@
-## Welcome to GitHub Pages
+# Rebootshutdown
+Welcome on the Rebootshutdown-Page!
+Please go to https://github.com/elnino0916/rebootshutdown to download rebootshutdown.
 
-You can use the [editor on GitHub](https://github.com/elNino0916/rebootshutdown/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
+## What is rebootshutdown?
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+A script, that makes easy to restart/shutdown your windows pc.
 
-### Markdown
+## Why should i download rebootshutdown?
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Its easier to restart/shutdown your pc.
 
-```markdown
-Syntax highlighted code block
+## How long is a version compatible?
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/elNino0916/rebootshutdown/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+1-3 months.
