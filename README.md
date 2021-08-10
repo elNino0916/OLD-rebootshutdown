@@ -5,6 +5,7 @@
 
 | Version | Supported          | Infos            |
 | ------- | ------------------ | ---------------  |
+| 1.0.7   | :x:                |  To many bugs    |
 | 1.0.6   | :white_check_mark: |                  |
 | 1.0.5   | :white_check_mark: |                  |
 | 1.0.4   | :white_check_mark: |    :x:           |
