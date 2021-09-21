@@ -4,7 +4,7 @@
 
 | Version | Supported          | Infos            |
 | ------- | ------------------ | ---------------  |
-| FINAL   | :white_check_mark: | Last version     |
+| FINAL   | :white_check_mark: | Last version  for Windows 10   |
 | 1.0.7   | :x:                |  Deleted         |
 | 1.0.6   | :x:                | Deleted          |
 | 1.0.5   | :white_check_mark: |                  |
